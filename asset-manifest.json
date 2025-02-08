@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manisha123b/multipager.github.io/static/css/main.4a03c9b6.css",
+    "main.js": "/manisha123b/multipager.github.io/static/js/main.3b0b9252.js",
+    "static/js/488.8d8cf5b5.chunk.js": "/manisha123b/multipager.github.io/static/js/488.8d8cf5b5.chunk.js",
+    "index.html": "/manisha123b/multipager.github.io/index.html",
+    "main.4a03c9b6.css.map": "/manisha123b/multipager.github.io/static/css/main.4a03c9b6.css.map",
+    "main.3b0b9252.js.map": "/manisha123b/multipager.github.io/static/js/main.3b0b9252.js.map",
+    "488.8d8cf5b5.chunk.js.map": "/manisha123b/multipager.github.io/static/js/488.8d8cf5b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a03c9b6.css",
+    "static/js/main.3b0b9252.js"
+  ]
+}
